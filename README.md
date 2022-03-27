@@ -108,15 +108,15 @@ Centered Title That Says weatherdashboard
 
 Grid Layout
 
-two main collumn blocks (3-9 split)
+one main sections with two collumn blocks (3-9 split)
 
-left collumn contents:
+left collumn content:
 12 rows of 100% 12 block collumns
 
-Right collumn contents;
+Right section content;
 3 rows
 
-Row 1: 
+Row 1(Section): 
 Grid Format
  -one section 12 collumn box with text alinged to the left
 Content
@@ -127,13 +127,13 @@ Content
      Humidity
      UV Index
 
-Row 2:
+Row 2(section):
 Grid Format
  -one section of 12 collumn box with text aligned to the left
 Content
  -Displays the text "5-day forecast" in h3 font
 
-Row 3:
+Row 3(Section):
 Grid Format:
  -one sectoion of 5 collumn wide cards
 Content
