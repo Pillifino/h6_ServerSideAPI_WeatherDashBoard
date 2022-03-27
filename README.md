@@ -98,3 +98,48 @@ You are required to submit BOTH of the following for review:
 
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
+//Psuedo Code
+
+Page Layout (Grid)
+
+Navbar
+Centered Title That Says weatherdashboard
+
+Grid Layout
+
+two main collumn blocks (3-9 split)
+
+left collumn contents:
+12 rows of 100% 12 block collumns
+
+Right collumn contents;
+3 rows
+
+Row 1: 
+Grid Format
+ -one section 12 collumn box with text alinged to the left
+Content
+ -Displays State and date in h2 font
+ -Rest is displayed vertically in list style
+     Temp 
+     Wind
+     Humidity
+     UV Index
+
+Row 2:
+Grid Format
+ -one section of 12 collumn box with text aligned to the left
+Content
+ -Displays the text "5-day forecast" in h3 font
+
+Row 3:
+Grid Format:
+ -one sectoion of 5 collumn wide cards
+Content
+ -five days in Ascending Order (left to right & need to set parameters in fetch function to choose the dates in Ascending Order)
+ -Weather forecast data displayed in list style below
+    Temp 
+     Wind
+     Humidity
+     UV Index
