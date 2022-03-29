@@ -1,0 +1,8 @@
+.card {
+    flex: 1 0 150px;
+    height: 250px;
+}
+
+.weather-box {
+    height: 300px;
+}
